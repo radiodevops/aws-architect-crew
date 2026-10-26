@@ -1,0 +1,16 @@
+[project]
+name = "aws-architect-crew"
+version = "0.1.0"
+description = "A team of AI agents that review AWS architectures, built with Strands Agents"
+requires-python = ">=3.13"
+dependencies = [
+    "strands-agents[a2a,web-fetch]>=1.57",
+    "strands-harness",
+    "fastapi[standard]",
+    "uvicorn",
+    "pydantic",
+    "chromadb",
+    "pypdf",
+    "boto3",
+    "mcp<2",
+]
