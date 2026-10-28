@@ -25,7 +25,7 @@ This is the code for the YouTube series on the Radio DevOps channel. Each episod
 ## Run Episode 1
 
 ```bash
-git clone https://github.com/<you>/aws-architect-crew.git
+git clone https://github.com/radiodevops/aws-architect-crew.git
 cd aws-architect-crew
 git checkout ep01        # the code as it was in Episode 1
 
