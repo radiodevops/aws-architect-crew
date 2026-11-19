@@ -9,8 +9,8 @@ This is the code for the YouTube series on the Radio DevOps channel. Each episod
 | # | Episode | Folder | Tag |
 |---|---|---|---|
 | 1 | Your first agent | `01_first_agent` | `ep01` |
-| 2 | Built-in tools | coming soon | |
-| 3 | Your own tools | coming soon | |
+| 2 | Built-in tools | `02_built_in_tools` | `ep02` |
+| 3 | Your own tools | `03_custom_tools` | `ep03` |
 | 4 | MCP server | coming soon | |
 | 5 | RAG | coming soon | |
 | 6 | Multi-agent with A2A | coming soon | |
